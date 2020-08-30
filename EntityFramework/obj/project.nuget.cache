@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Va9LTmp6Bt/bzDAqe7nw6Op0AK4t0nGMobQR3l0VRE9a+ZfHt+lGsYu+lGaOexCcR6zZFn3XwuUqdqngFmfscg==",
+  "dgSpecHash": "yt9XoEHnY/yfZBSHOjVt9dUKK7sDD1Wu9HxHSivSQTHR5roFz6qbSCqZouCVoF4DGNI01NJbKrduM0sflS9yLA==",
   "success": true,
-  "projectFilePath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+  "projectFilePath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

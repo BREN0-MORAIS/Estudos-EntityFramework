@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {}
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\EntityFramework.csproj": {}
   },
   "projects": {
-    "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\EntityFramework.csproj": {
+    "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+        "projectUniqueName": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\EntityFramework.csproj",
         "projectName": "EntityFramework",
-        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+        "projectPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\EntityFramework.csproj",
         "packagesPath": "C:\\Users\\BRENO MORAIS\\.nuget\\packages\\",
-        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Entity-Console\\EntityFramework\\EntityFramework\\obj\\",
+        "outputPath": "H:\\Desenvolvimento\\_Codigo-Fonte\\Estudos-EntityFramework\\EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRENO MORAIS\\AppData\\Roaming\\NuGet\\NuGet.Config",

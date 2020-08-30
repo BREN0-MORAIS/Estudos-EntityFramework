@@ -11,7 +11,7 @@ namespace EntityFramework
         public static void SeedProdutos(AppDbContext contexto)
         {
             //se não existe dados  contexto.Produtos.Any()
-            if (contexto.Produtos.Any())
+            if (!contexto.Produtos.Any())
             {
                 //vamos inserir os dados
                 //cria uma variavel adiciona um list no modelo Produto 
